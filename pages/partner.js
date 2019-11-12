@@ -121,11 +121,11 @@ const Partner = () => {
 					<span>*Please bring both original and photocopy of document upon registration.</span>
 				</div>
 			</div>
-			<div className="row container50vh padding-y-5em padding-x-em">
+			{/* <div className="row container50vh padding-y-5em padding-x-em">
 				<div className="col-12">
 					<SimpleSlider />
 				</div>
-			</div>
+			</div> */}
 			<div className="row container50vh padding-y-5em padding-x-em">
 				<div className="col-12">
 				<h3 className="font-mont font-weight1000 fontsize1dot5em color-orange margin-x-1em text-center padding-y-1em">Start earning with HYPE.</h3>
